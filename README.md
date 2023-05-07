@@ -1,2 +1,1 @@
-# ArrogantGentry.github.io
-New ideas every day!
+My Blog
