@@ -1,2 +1,1 @@
-# My Blog
-[arrogantgentry.me](https://arrogantgentry.me/)
+ArrogantGentry-New ideas every day!
